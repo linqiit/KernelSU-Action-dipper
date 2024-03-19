@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "dipper _Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "Xiaomi_Kernel_lineage-sdm845",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
       "branch": "lineage-21",
       "device": "dipper",
